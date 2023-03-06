@@ -53,6 +53,7 @@
     ]
   },
   "devDependencies": {
-    "husky": "^8.0.0"
+    "husky": "^8.0.0",
+    "node-sass": "^7.0.3"
   }
 }
